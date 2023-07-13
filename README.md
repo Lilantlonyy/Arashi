@@ -511,11 +511,37 @@ npm start
 
 ---
 🫱🏻‍🫲🏻Thanks To:
-| Name | GitHub Profile | Role |
-|------|----------------|------|
-| Hridoy | [Hridoy0016](https://github.com/Hridoy0016) | Owner of Arashi, Main developer |
-| Miow ツ | [7thRA-ONE](https://github.com/7thRA-ONE) | Ideas, Testing, Co-developer |
-| Riqo | [Riqo-o](https://github.com/Riqo-o) | Ideas, Testing, Learner, Graphic Designing |
-| Manab/Mp | [Rikuodada](https://github.com/Rikuodada) | Useless Worker |
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Profile Picture</th>
+    <th>GitHub Profile</th>
+    <th>Role</th>
+  </tr>
+  <tr>
+    <td>Hridoy</td>
+    <td><a href="https://github.com/Hridoy0016"><img src="https://github.com/Hridoy0016.png?size=100" width="100" height="100"></a></td>
+    <td><a href="https://github.com/Hridoy0016">Hridoy0016</a></td>
+    <td>Owner of Arashi, Main developer</td>
+  </tr>
+  <tr>
+    <td>Miow ツ</td>
+    <td><a href="https://github.com/7thRA-ONE"><img src="https://github.com/7thRA-ONE.png?size=100" width="100" height="100"></a></td>
+    <td><a href="https://github.com/7thRA-ONE">7thRA-ONE</a></td>
+    <td>Ideas, Testing, Co-developer</td>
+  </tr>
+  <tr>
+    <td>Riqo</td>
+    <td><a href="https://github.com/Riqo-o"><img src="https://github.com/Riqo-o.png?size=100" width="100" height="100"></a></td>
+    <td><a href="https://github.com/Riqo-o">Riqo-o</a></td>
+    <td>Ideas, Testing, Learner, Graphic Designing</td>
+  </tr>
+  <tr>
+    <td>Manab/Mp</td>
+    <td><a href="https://github.com/Rikuodada"><img src="https://github.com/Rikuodada.png?size=100" width="100" height="100"></a></td>
+    <td><a href="https://github.com/Rikuodada">Rikuodada</a></td>
+    <td>Useless Worker</td>
+  </tr>
+</table>
 
 
