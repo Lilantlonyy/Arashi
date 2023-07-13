@@ -520,3 +520,4 @@ Owner of Arashi, Main developer| Ideas, Testing, Co-developer|
 -|-
 [Riqo](https://github.com/Riqo-o) | [Manab/Mp](https;//github.com/Rikuodada)
 Ideas, Testing, Learner, Graphic Designing| Useless Worker|
+
