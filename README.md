@@ -541,7 +541,7 @@ npm start
     <td>Manab/Mp</td>
     <td><a href="https://github.com/Rikuodada"><img src="https://github.com/Rikuodada.png?size=100" width="100" height="100"></a></td>
     <td><a href="https://github.com/Rikuodada">Rikuodada</a></td>
-    <td>Useless Worker</td>
+    <td>Supportive worker</td>
   </tr>
 </table>
 
