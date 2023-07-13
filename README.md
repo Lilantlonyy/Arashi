@@ -445,7 +445,7 @@ npm start
 
 
  <br>
-
+---
 <p align="center"> ⚡️ Arashi Platform Compatibility:
 <br>
 
@@ -480,14 +480,16 @@ npm start
     
 <br>
 
+---
 <p align="center"> 🧑🏻‍💻 Contributors 🧑🏻‍💻
 
 - Check [Arashi Contributors](https://github.com/Hridoy0016/Arashi/graphs/contributors) list.
 - Feel free to contribute in this project it increase it's stability and update. I will merge your respected contribution after reviewing it.
 - No personal modification / re-branding ( Changing bot name, owner name ) pull requests will be merged !
     
-<br><br>
+<br>
 
+---
 <p align="center"> ⚠️ Warning ⚠️
     
 - This bot is not made by WhatsApp.inc so overusing this bot may result in WhatsApp account ban.
@@ -496,22 +498,25 @@ npm start
 - This bot is made for `Educational / Fun / Group Management` purposes only. I will not be responsible for any misuse of this bot.
 - We will only assist you in `Setup / Deployment` of this bot.
 
-<br><br>
+<br>
 
+---
 <p align="center"> 📛 Legal Disclaimer 📛
 
 - We suggest you to use your `Own MongoDB URL` while deploying inside `.env` or `Environment Variables`. That will increase your Privacy and Security.
 - We don't recommend to hardly modify the script. `If you do so, you will be responsible for any issues / bugs and we will not provide any support` as we are also busy in our life.
 - We will not be responsible for any issues caused by any individual hosting bot and cause any harm to any Group `(So   don't make someone Group Admin who you don't know just because they are hosting the bot)
 
-<br><br>
+<br>
 
+---
 🫱🏻‍🫲🏻Thanks To:
 <a href="https://github.com/Hridoy0016"><img src="https://github.com/Hridoy0016.png?size=100" width="100" height="100"></a> | [![Miow ツ](https://github.com/7thRA-ONE.png?size=100)](https://github.com/7thRA-ONE)
 -|-
 [Hridoy](https://github.com/Hridoy0016)  | [Miow ツ](https://github.com/7thRA-ONE)
 Owner of Arashi, Main developer| Ideas, Testing, Co-developer|
 <a href="https://github.com/Riqo-o"><img src="https://github.com/Riqo-o.png?size=100" width="100" height="100">
+</a> | [![Manab/Mp](https://github.com/Rikuodada.png?size=100)](https://github.com/Rikuodada)
 -|-
-[Riqo](https://github.com/Riqo-o)
-Ideas, Testing, Learner, Graphic Designing|
+[Riqo](https://github.com/Riqo-o) | [Manab/Mp](https;//github.com/Rikuodada)
+Ideas, Testing, Learner, Graphic Designing| Useless Worker|
