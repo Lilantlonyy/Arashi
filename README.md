@@ -511,14 +511,11 @@ npm start
 
 ---
 🫱🏻‍🫲🏻Thanks To:
-<a href="https://github.com/Hridoy0016"><img src="https://github.com/Hridoy0016.png?size=100" width="100" height="100"></a> | [![Miow ツ](https://github.com/7thRA-ONE.png?size=100)](https://github.com/7thRA-ONE)
--|-
-[Hridoy](https://github.com/Hridoy0016)  | [Miow ツ](https://github.com/7thRA-ONE)
-Owner of Arashi, Main developer| Ideas, Testing, Co-developer|
--|-
-<a href="https://github.com/Riqo-o"><img src="https://github.com/Riqo-o.png?size=100" width="100" height="100">
-</a> | [![Manab/Mp](https://github.com/Rikuodada.png?size=100)](https://github.com/Rikuodada)
--|-
-[Riqo](https://github.com/Riqo-o) | [Manab/Mp](https;//github.com/Rikuodada)
-Ideas, Testing, Learner, Graphic Designing| Useless Worker|
+| Name | GitHub Profile | Role |
+|------|----------------|------|
+| Hridoy | [Hridoy0016](https://github.com/Hridoy0016) | Owner of Arashi, Main developer |
+| Miow ツ | [7thRA-ONE](https://github.com/7thRA-ONE) | Ideas, Testing, Co-developer |
+| Riqo | [Riqo-o](https://github.com/Riqo-o) | Ideas, Testing, Learner, Graphic Designing |
+| Manab/Mp | [Rikuodada](https://github.com/Rikuodada) | Useless Worker |
+
 
