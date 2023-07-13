@@ -12,7 +12,7 @@
     A R A S H I <sup>B O T</sup> <br>
         <p align="center">This WhatsApp bot, built with Node.js and integrated with the WhatsApp API, offers versatile features such as economy commands, gambling, daily rewards, and bank management. It provides various functionalities and can be customized to meet different needs.
 <br>
-<h3 align="center"> Arashi  - The Future Is Here
+<h3 align="center"> Arashi  - The Future Of New Generation Is Here
 </h4>
 
 <br>
@@ -52,23 +52,25 @@
 
 <img src="https://i.imgur.com/d56z25o.png" width=250px align="right">
 
-Don't you want to know about codes or complicated blah blah blah and just want to play and have fun? You can Join the WhatsApp group   (｡･∀･)ﾉﾞ
+Don't want to know about codes or complicated blah blah blah and just want to play and have fun? You can Join the WhatsApp group   (｡･∀･)ﾉﾞ
 <p align="center" >
 <a href="https://cutt.ly/Uwi458qQ"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140px">
 </a>
 </p>
     
----
 <br>
 
+---
 Having problems, do you want to make a suggestion or talk to us? Feel free to join our support server!
 <br>
 <br>
 <a href="https://discord.gg/Ft5Wf6zg">
 <img src="https://invidget.switchblade.xyz/Ft5Wf6zg">
 </a>
+<br>
 
-# 📱 Deploy Arashi
+---
+## 📱 Deploy Arashi
 
 <details close>
 <summary>Click to choose your favourite platform to Deploy</summary>
@@ -214,8 +216,9 @@ Having problems, do you want to make a suggestion or talk to us? Feel free to jo
 </details>
 
 <br>
-    
-# 📑 Arashi Deploy and Hosting guide
+
+---
+## 🧩 Arashi Deploy and Hosting guide:
 
 <details close>
 <summary>Click to read Deploy Manual</summary>    
@@ -414,7 +417,7 @@ npm start
 #### 📌 To stop a bot in Userland
 - Tap on `CTRL` button then tap on `C` from keyboard
 
-#### 📌 To start bot again ( While you are inside Atlas-MD folder {use `cd Arashi` to get inside the folder} )
+#### 📌 To start bot again ( While you are inside Arashi folder {use `cd Arashi` to get inside the folder} )
 - `npm start` or use `yarn start` to start bot again.
 
 
@@ -445,6 +448,7 @@ npm start
 
 
  <br>
+ 
 ---
 <p align="center"> ⚡️ Arashi Platform Compatibility:
 <br>
@@ -510,7 +514,7 @@ npm start
 <br>
 
 ---
-🫱🏻‍🫲🏻Thanks To:
+# 🫱🏻‍🫲🏻 Thanks To 🫱🏻‍🫲🏻
 <table>
   <tr>
    
