@@ -1,10 +1,10 @@
 /* ---------------------------------------------------------------------------------/
 /                                                                                   /
-/              ##     #####        ###    ######    ##   ##   ######                /
+/              ###    #####        ###    ######    ##   ##   ######                /
 /             #####   #######     #####  #######    ##   ##   ######                /
-/             ##  ##  #     ##   ##   ##  ##        ##   ##     ##                  /
-/             ##  ##  #######    ##   ##  ######    #######     ##                  /
-/             ######  ##   ##    #######        ##  ##   ##     ##                  /
+/             ##  ##  #     ##   ##   ## ###        ##   ##     ##                  /
+/             ##  ##  #######    ##   ##  #######   #######     ##                  /
+/             ######  ##   ##    #######       ###  ##   ##     ##                  /
 /             ##  ##  ##    ##   ##   ##  #######   ##   ##   ######                /
 /             ##  ##  ##    ##   ##   ##  ######    ##   ##   ######                /                                                                 /
 /                                                                                   /                                                                                   / 
@@ -65,12 +65,12 @@ Don't forget to change "charlist.js" and "setchar.js" inside "Plugins\moderator.
 global.charID0 = {
     botName : "Arashi",
     botVideo : "https://graph.org/file/e3b2ee218b98b8679bf98.mp4",
-    botImage1 : "",
-    botImage2 : "",
-    botImage3 : "",
-    botImage4 : "",
-    botImage5 : "",
-    botImage6 : "",
+    botImage1 : "https://graph.org/file/14e915ae7394a4c07a7d8.jpg",
+    botImage2 : "https://graph.org/file/14e915ae7394a4c07a7d8.jpg",
+    botImage3 : "https://graph.org/file/14e915ae7394a4c07a7d8.jpg",
+    botImage4 : "https://graph.org/file/14e915ae7394a4c07a7d8.jpg",
+    botImage5 : "https://graph.org/file/14e915ae7394a4c07a7d8.jpg",
+    botImage6 : "https://graph.org/file/14e915ae7394a4c07a7d8.jpg",
 }
 
 global.charID1 = {
@@ -98,9 +98,9 @@ global.charID2 = {
 global.charID3 = {
   botName : "Hinata",
   botVideo : "",
-  botImage1 : "",
-  botImage2 : "",
-  botImage3 : "",
+  botImage1 : "https://images.alphacoders.com/135/thumbbig-135673.webp",
+  botImage2 : "https://images2.alphacoders.com/716/thumbbig-716738.webp",
+  botImage3 : "https://images3.alphacoders.com/135/135675.jpg",
   botImage4 : "",
   botImage5 : "",
   botImage6 : "",
@@ -153,7 +153,7 @@ global.charID7 = {
 global.charID8 = {
   botName : "Rikka",
   botVideo : "",
-  botImage1 : "",
+  botImage1 : "https://images.alphacoders.com/534/thumbbig-534111.webp",
   botImage2 : "",
   botImage3 : "",
   botImage4 : "",
@@ -291,11 +291,11 @@ global.charID19 = {
 global.charID20 = {
   botName : "Robin",
   botVideo : "",
-  botImage1 : "",
-  botImage2 : "",
-  botImage3 : "",
+  botImage1 : "https://images2.alphacoders.com/128/thumbbig-1285461.webp",
+  botImage2 : "https://images3.alphacoders.com/164/thumbbig-164945.webp",
+  botImage3 : "https://images7.alphacoders.com/727/727975.jpg",
   botImage4 : "",
   botImage5 : "",
-  botImage6 : "",
+  botImage6 : "https://images3.alphacoders.com/104/104547.jpg",
   }
   
