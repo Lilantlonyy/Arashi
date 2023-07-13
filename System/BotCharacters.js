@@ -1,12 +1,12 @@
 /* ---------------------------------------------------------------------------------/
 /                                                                                   /
-/              ###    #####        ###    ######    ##   ##   ######                /
-/             #####   #######     #####  #######    ##   ##   ######                /
-/             ##  ##  #     ##   ##   ## ###        ##   ##     ##                  /
-/             ##  ##  #######    ##   ##  #######   #######     ##                  /
-/             ######  ##   ##    #######       ###  ##   ##     ##                  /
-/             ##  ##  ##    ##   ##   ##  #######   ##   ##   ######                /
-/             ##  ##  ##    ##   ##   ##  ######    ##   ##   ######                /                                                                 /
+/              ###    #####        ###      ######   ##   ##   ######               /
+/             #####   #######     #####    #######   ##   ##   ######               /
+/            ##   ##  #     ##   ##   ##  ###        ##   ##     ##                 /
+/            ##   ##  #######    ##   ##  #######    #######     ##                 /
+/            #######  ##   ##    #######       ###   ##   ##     ##                 /
+/            ##   ##  ##    ##   ##   ##  #######    ##   ##   ######               /
+/            ##   ##  ##    ##   ##   ##  ######     ##   ##   ######               /                                                                 /
 /                                                                                   /                                                                                   / 
 /-----------------------------------------------------------------------------------/
 / Author and Main Developer: Hridoy                                                 /
@@ -101,9 +101,9 @@ global.charID3 = {
   botImage1 : "https://images.alphacoders.com/135/thumbbig-135673.webp",
   botImage2 : "https://images2.alphacoders.com/716/thumbbig-716738.webp",
   botImage3 : "https://images3.alphacoders.com/135/135675.jpg",
-  botImage4 : "",
-  botImage5 : "",
-  botImage6 : "",
+  botImage4 : "https://images8.alphacoders.com/128/1289398.jpg",
+  botImage5 : "https://images7.alphacoders.com/772/772851.jpg",
+  botImage6 : "https://images7.alphacoders.com/769/thumbbig-769867.webp",
 }
 
 global.charID4 = {
@@ -152,13 +152,13 @@ global.charID7 = {
 
 global.charID8 = {
   botName : "Rikka",
-  botVideo : "",
+  botVideo : "https://graph.org/file/95b9eca1e89592107422a.mp4",
   botImage1 : "https://images.alphacoders.com/534/thumbbig-534111.webp",
-  botImage2 : "",
-  botImage3 : "",
-  botImage4 : "",
-  botImage5 : "",
-  botImage6 : "",
+  botImage2 : "https://images4.alphacoders.com/597/597626.png",
+  botImage3 : "https://images.alphacoders.com/705/705715.jpg",
+  botImage4 : "https://images6.alphacoders.com/322/322745.jpg",
+  botImage5 : "https://images7.alphacoders.com/655/thumbbig-655085.webp",
+  botImage6 : "https://images4.alphacoders.com/103/thumbbig-1031375.webp",
 }
 
 global.charID9 = {
@@ -294,8 +294,8 @@ global.charID20 = {
   botImage1 : "https://images2.alphacoders.com/128/thumbbig-1285461.webp",
   botImage2 : "https://images3.alphacoders.com/164/thumbbig-164945.webp",
   botImage3 : "https://images7.alphacoders.com/727/727975.jpg",
-  botImage4 : "",
-  botImage5 : "",
+  botImage4 : "https://graph.org/file/11e613af4b222c2b602d3.jpg",
+  botImage5 : "https://graph.org/file/51cd950f2c4c522c1de7a.jpg",
   botImage6 : "https://images3.alphacoders.com/104/104547.jpg",
   }
   
