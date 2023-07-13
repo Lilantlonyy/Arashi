@@ -515,6 +515,7 @@ npm start
 -|-
 [Hridoy](https://github.com/Hridoy0016)  | [Miow ツ](https://github.com/7thRA-ONE)
 Owner of Arashi, Main developer| Ideas, Testing, Co-developer|
+-|-
 <a href="https://github.com/Riqo-o"><img src="https://github.com/Riqo-o.png?size=100" width="100" height="100">
 </a> | [![Manab/Mp](https://github.com/Rikuodada.png?size=100)](https://github.com/Rikuodada)
 -|-
