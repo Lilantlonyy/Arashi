@@ -513,10 +513,7 @@ npm start
 🫱🏻‍🫲🏻Thanks To:
 <table>
   <tr>
-    <th>Name</th>
-    <th>Profile Picture</th>
-    <th>GitHub Profile</th>
-    <th>Role</th>
+   
   </tr>
   <tr>
     <td>Hridoy</td>
