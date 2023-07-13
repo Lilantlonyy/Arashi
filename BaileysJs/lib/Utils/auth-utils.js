@@ -199,4 +199,4 @@ const initAuthCreds = () => {
         registration: {}
     };
 };
-exports.initAuthCreds = initAuthCreds; 
+exports.initAuthCreds = initAuthCreds;
