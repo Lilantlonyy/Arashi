@@ -26,8 +26,6 @@ export interface GroupMetadata {
     participants: GroupParticipant[]
     ephemeralDuration?: number
     inviteCode?: string
-    /** the person who added you */
-    author?: string
 }
 
 
@@ -39,5 +37,7 @@ export interface WAGroupCreateResponse {
 
 export interface GroupModificationResponse {
     status: number
-    participants?: { [key: string]: {} }
+    participants?: { 
+        [key: string]: {} 
+    };
 }
