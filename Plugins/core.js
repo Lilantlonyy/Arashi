@@ -17,7 +17,7 @@ module.exports = {
   uniquecommands: ["sc", "support"],
   description: "All miscellaneous commands",
   start: async (Arashi, m, { pushName, prefix, inputCMD, doReact }) => {
-    let pic = fs.readFileSync("./Assets/Arashi.jpg");
+    let pic = fs.readFileSync("./Assets/Arashi.jpeg");
     switch (inputCMD) {
       case "script":
       case "sc":
