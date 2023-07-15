@@ -9,7 +9,7 @@
  * @version 1.0.0
  **/
 
- const { cmd, parseJid,getAdmin,tlang } = require("../lib/");
+ const { cmd, parseJid,getAdmin,tlang } = require("../system/");
  const eco = require('discord-mongoose-economy')
  const ty = eco.connect(mongodb);
 cmd(
@@ -222,7 +222,7 @@ ${
 );
 
 cmd({ pattern: "ship" , category: "fun" }, async(Void, citel, text) => {
-    const { tlang } = require('../lib')
+    const { tlang } = require('../system')
    if (!citel.isGroup) return citel.reply(tlang().group);
    const groupMetadata = citel.isGroup ? await Void.groupMetadata(citel.chat).catch((e) => {}) : "";
 	 const participants = citel.isGroup ? await groupMetadata.participants : "";
