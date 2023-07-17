@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-require("../../config.js");
+require("../../Configurations.js");
 
 require("../../Core.js");
 
