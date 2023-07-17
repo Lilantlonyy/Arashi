@@ -4,7 +4,7 @@ require("../../config.js");
 
 require("../../Core.js");
 
-const { mku, mk } = require("../../Database/dataschema.js");
+const { mku, mk } = require("../../System/dataschema.js");
 
 const fs = require("fs");
 
