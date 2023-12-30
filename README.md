@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/Lilantlonyy/Arashi">
+<a href="https://github.com/Hridoy0016/Arashi">
     <img src="https://thumbsnap.com/i/Fe7qFtwf.jpg">
   </a>
 
